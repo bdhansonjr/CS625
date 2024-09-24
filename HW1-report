@@ -1,0 +1,104 @@
+# Homework 1: Tool Setup
+
+Brian Hanson, Jr.
+CS 625, Fall 2024  
+Due: September 8, 2024
+
+## Git, GitHub
+
+### Q1 - URL of GitHub Repo
+
+My new GitHub Repo in my personal account is https://github.com/bdhansonjr/CS625/tree/main. I created this on github.com & am re-learning the procedural concepts of git.
+
+### Q2 - Pull Command
+
+The git pull command sends remote repository changes to your local machine repository. I believe the pull command shares a similar functionality to the git clone command too.
+
+### Q3 - Local Commits
+
+Based on committing a change via my local machine, I would need to follow this step with a git push command to transfer my updates onto the remote repository on github.com
+
+### Reference
+
+*Each section of your report must list the webpages and URLs that you consulted while completing the assignment. Replace the items below with the references you consulted - these are just examples.*
+
+* How Git Works: Explained in 4 Minutes, <https://www.youtube.com/watch?v=e9lnsKot_SQ>
+* GitHub's Hello World exercise to learn the pull request workflow, <https://docs.github.com/en/get-started/start-your-journey/hello-world>
+
+## Markdown
+
+### Q1 - Bulleted List
+
+Insert your answer and explanation here
+
+### Q2 - Markdown Paragraph
+
+Insert your answer and explanation here
+
+### Q3 - Animal Image
+
+Insert your answer and explanation here
+
+### References
+
+Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+
+## Tableau
+
+### Q1 - Region Other Than the South
+
+Insert your answer and explanation here
+
+### References
+
+Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+
+## Google Colab
+
+### Q1 - URL of Google Colab Notebook
+
+Insert your answer and explanation here
+
+### References
+
+Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+
+## Python/Seaborn
+
+### Q1 - First Penguin Image
+
+Insert your answer and explanation here
+
+### Q2 - Second Penguin Image
+
+Insert your answer and explanation here
+
+### Q3 - Outer Parenthesis
+
+Insert your answer and explanation here
+
+### References
+
+Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
+
+## Observable and Vega-Lite
+
+### Q1 - markCircle to markSquare
+
+Insert your answer and explanation here
+
+### Q2 - markCircle to markPoint
+
+Insert your answer and explanation here
+
+### Q3 - Swap X and Y Axes on Scatterplot
+
+Insert your answer and explanation here
+
+### Q4 - Remove fieldN(Origin)
+
+Insert your answer and explanation here
+
+### References
+
+Insert the list of any references you used here. *If you did not use any references for this section, you may remove this subsection.*
